@@ -53,39 +53,48 @@
     "fotos": [
       {
         "src": "img/sobre/sobre-muskvx61gyw.webp",
-        "alt": "Conheça a pousada — foto 1"
+        "alt": "Conheça a pousada — foto 1",
+        "mini": "img/sobre/sobre-muskvx61gyw.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvxkj4jw.webp",
-        "alt": "Conheça a pousada — foto 2"
+        "alt": "Conheça a pousada — foto 2",
+        "mini": "img/sobre/sobre-muskvxkj4jw.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvxq8nfx.webp",
-        "alt": "Conheça a pousada — foto 3"
+        "alt": "Conheça a pousada — foto 3",
+        "mini": "img/sobre/sobre-muskvxq8nfx.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvy1062u.webp",
-        "alt": "Conheça a pousada — foto 4"
+        "alt": "Conheça a pousada — foto 4",
+        "mini": "img/sobre/sobre-muskvy1062u.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvybfttg.webp",
-        "alt": "Conheça a pousada — foto 5"
+        "alt": "Conheça a pousada — foto 5",
+        "mini": "img/sobre/sobre-muskvybfttg.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvyhta8u.webp",
-        "alt": "Conheça a pousada — foto 6"
+        "alt": "Conheça a pousada — foto 6",
+        "mini": "img/sobre/sobre-muskvyhta8u.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvysutni.webp",
-        "alt": "Conheça a pousada — foto 7"
+        "alt": "Conheça a pousada — foto 7",
+        "mini": "img/sobre/sobre-muskvysutni.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvz42rxy.webp",
-        "alt": "Conheça a pousada — foto 8"
+        "alt": "Conheça a pousada — foto 8",
+        "mini": "img/sobre/sobre-muskvz42rxy.m.webp"
       },
       {
         "src": "img/sobre/sobre-muskvz5k15e.webp",
-        "alt": "Conheça a pousada — foto 9"
+        "alt": "Conheça a pousada — foto 9",
+        "mini": "img/sobre/sobre-muskvz5k15e.m.webp"
       }
     ]
   },
@@ -124,23 +133,28 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-duplo-muskwlfbpd4.webp",
-            "alt": "Luxo Duplo — foto 1"
+            "alt": "Luxo Duplo — foto 1",
+            "mini": "img/quartos/luxo-duplo-muskwlfbpd4.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-muskwln56cv.webp",
-            "alt": "Luxo Duplo — foto 2"
+            "alt": "Luxo Duplo — foto 2",
+            "mini": "img/quartos/luxo-duplo-muskwln56cv.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-muskwlw7d3o.webp",
-            "alt": "Luxo Duplo — foto 3"
+            "alt": "Luxo Duplo — foto 3",
+            "mini": "img/quartos/luxo-duplo-muskwlw7d3o.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-muskwm52s10.webp",
-            "alt": "Luxo Duplo — foto 4"
+            "alt": "Luxo Duplo — foto 4",
+            "mini": "img/quartos/luxo-duplo-muskwm52s10.m.webp"
           },
           {
             "src": "img/quartos/luxo-duplo-muskwmgh9kg.webp",
-            "alt": "Luxo Duplo — foto 5"
+            "alt": "Luxo Duplo — foto 5",
+            "mini": "img/quartos/luxo-duplo-muskwmgh9kg.m.webp"
           }
         ]
       },
@@ -175,51 +189,63 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-triplo-muskwzaamjr.webp",
-            "alt": "Luxo Triplo — foto 1"
+            "alt": "Luxo Triplo — foto 1",
+            "mini": "img/quartos/luxo-triplo-muskwzaamjr.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskwznb4kb.webp",
-            "alt": "Luxo Triplo — foto 2"
+            "alt": "Luxo Triplo — foto 2",
+            "mini": "img/quartos/luxo-triplo-muskwznb4kb.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskwzzzskf.webp",
-            "alt": "Luxo Triplo — foto 3"
+            "alt": "Luxo Triplo — foto 3",
+            "mini": "img/quartos/luxo-triplo-muskwzzzskf.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx08be3a.webp",
-            "alt": "Luxo Triplo — foto 4"
+            "alt": "Luxo Triplo — foto 4",
+            "mini": "img/quartos/luxo-triplo-muskx08be3a.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx0edpgs.webp",
-            "alt": "Luxo Triplo — foto 5"
+            "alt": "Luxo Triplo — foto 5",
+            "mini": "img/quartos/luxo-triplo-muskx0edpgs.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx0k5lgl.webp",
-            "alt": "Luxo Triplo — foto 6"
+            "alt": "Luxo Triplo — foto 6",
+            "mini": "img/quartos/luxo-triplo-muskx0k5lgl.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx11ch6g.webp",
-            "alt": "Luxo Triplo — foto 8"
+            "alt": "Luxo Triplo — foto 8",
+            "mini": "img/quartos/luxo-triplo-muskx11ch6g.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx17hv6t.webp",
-            "alt": "Luxo Triplo — foto 9"
+            "alt": "Luxo Triplo — foto 9",
+            "mini": "img/quartos/luxo-triplo-muskx17hv6t.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx1d91se.webp",
-            "alt": "Luxo Triplo — foto 10"
+            "alt": "Luxo Triplo — foto 10",
+            "mini": "img/quartos/luxo-triplo-muskx1d91se.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx1jexwg.webp",
-            "alt": "Luxo Triplo — foto 11"
+            "alt": "Luxo Triplo — foto 11",
+            "mini": "img/quartos/luxo-triplo-muskx1jexwg.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx1p8ysq.webp",
-            "alt": "Luxo Triplo — foto 12"
+            "alt": "Luxo Triplo — foto 12",
+            "mini": "img/quartos/luxo-triplo-muskx1p8ysq.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-muskx1qg6mb.webp",
-            "alt": "Luxo Triplo — foto 13"
+            "alt": "Luxo Triplo — foto 13",
+            "mini": "img/quartos/luxo-triplo-muskx1qg6mb.m.webp"
           }
         ]
       },
@@ -254,19 +280,23 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-quadruplo-muskxiv5ezr.webp",
-            "alt": "Luxo Quádruplo — foto 1"
+            "alt": "Luxo Quádruplo — foto 1",
+            "mini": "img/quartos/luxo-quadruplo-muskxiv5ezr.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-muskxj32ng8.webp",
-            "alt": "Luxo Quádruplo — foto 2"
+            "alt": "Luxo Quádruplo — foto 2",
+            "mini": "img/quartos/luxo-quadruplo-muskxj32ng8.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-muskxjbfovb.webp",
-            "alt": "Luxo Quádruplo — foto 3"
+            "alt": "Luxo Quádruplo — foto 3",
+            "mini": "img/quartos/luxo-quadruplo-muskxjbfovb.m.webp"
           },
           {
             "src": "img/quartos/luxo-quadruplo-muskxjh2jh4.webp",
-            "alt": "Luxo Quádruplo — foto 4"
+            "alt": "Luxo Quádruplo — foto 4",
+            "mini": "img/quartos/luxo-quadruplo-muskxjh2jh4.m.webp"
           }
         ]
       },
@@ -303,47 +333,58 @@
         "fotos": [
           {
             "src": "img/quartos/suite-master-muskyyqqao0.webp",
-            "alt": "Suíte Master — foto 1"
+            "alt": "Suíte Master — foto 1",
+            "mini": "img/quartos/suite-master-muskyyqqao0.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyywswa6.webp",
-            "alt": "Suíte Master — foto 2"
+            "alt": "Suíte Master — foto 2",
+            "mini": "img/quartos/suite-master-muskyywswa6.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyz4uub3.webp",
-            "alt": "Suíte Master — foto 3"
+            "alt": "Suíte Master — foto 3",
+            "mini": "img/quartos/suite-master-muskyz4uub3.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyzaov8o.webp",
-            "alt": "Suíte Master — foto 4"
+            "alt": "Suíte Master — foto 4",
+            "mini": "img/quartos/suite-master-muskyzaov8o.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyzgkdfc.webp",
-            "alt": "Suíte Master — foto 5"
+            "alt": "Suíte Master — foto 5",
+            "mini": "img/quartos/suite-master-muskyzgkdfc.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyzlyk8j.webp",
-            "alt": "Suíte Master — foto 6"
+            "alt": "Suíte Master — foto 6",
+            "mini": "img/quartos/suite-master-muskyzlyk8j.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyzryzsi.webp",
-            "alt": "Suíte Master — foto 7"
+            "alt": "Suíte Master — foto 7",
+            "mini": "img/quartos/suite-master-muskyzryzsi.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskyzxqqnj.webp",
-            "alt": "Suíte Master — foto 8"
+            "alt": "Suíte Master — foto 8",
+            "mini": "img/quartos/suite-master-muskyzxqqnj.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskz04338y.webp",
-            "alt": "Suíte Master — foto 9"
+            "alt": "Suíte Master — foto 9",
+            "mini": "img/quartos/suite-master-muskz04338y.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskz0ctxpj.webp",
-            "alt": "Suíte Master — foto 10"
+            "alt": "Suíte Master — foto 10",
+            "mini": "img/quartos/suite-master-muskz0ctxpj.m.webp"
           },
           {
             "src": "img/quartos/suite-master-muskz0i76k0.webp",
-            "alt": "Suíte Master — foto 11"
+            "alt": "Suíte Master — foto 11",
+            "mini": "img/quartos/suite-master-muskz0i76k0.m.webp"
           }
         ]
       },
@@ -380,19 +421,23 @@
         "fotos": [
           {
             "src": "img/quartos/suite-master-junior-muskzmlf565.webp",
-            "alt": "Suíte Master Junior — foto 1"
+            "alt": "Suíte Master Junior — foto 1",
+            "mini": "img/quartos/suite-master-junior-muskzmlf565.m.webp"
           },
           {
             "src": "img/quartos/suite-master-junior-muskzmv89ux.webp",
-            "alt": "Suíte Master Junior — foto 2"
+            "alt": "Suíte Master Junior — foto 2",
+            "mini": "img/quartos/suite-master-junior-muskzmv89ux.m.webp"
           },
           {
             "src": "img/quartos/suite-master-junior-muskzn5ck90.webp",
-            "alt": "Suíte Master Junior — foto 3"
+            "alt": "Suíte Master Junior — foto 3",
+            "mini": "img/quartos/suite-master-junior-muskzn5ck90.m.webp"
           },
           {
             "src": "img/quartos/suite-master-junior-muskznfjgkz.webp",
-            "alt": "Suíte Master Junior — foto 4"
+            "alt": "Suíte Master Junior — foto 4",
+            "mini": "img/quartos/suite-master-junior-muskznfjgkz.m.webp"
           }
         ]
       },
@@ -427,23 +472,28 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-quintuplo-muskzy6v972.webp",
-            "alt": "Luxo Quíntuplo — foto 1"
+            "alt": "Luxo Quíntuplo — foto 1",
+            "mini": "img/quartos/luxo-quintuplo-muskzy6v972.m.webp"
           },
           {
             "src": "img/quartos/luxo-quintuplo-muskzyfdcyp.webp",
-            "alt": "Luxo Quíntuplo — foto 2"
+            "alt": "Luxo Quíntuplo — foto 2",
+            "mini": "img/quartos/luxo-quintuplo-muskzyfdcyp.m.webp"
           },
           {
             "src": "img/quartos/luxo-quintuplo-muskzyn9vpy.webp",
-            "alt": "Luxo Quíntuplo — foto 3"
+            "alt": "Luxo Quíntuplo — foto 3",
+            "mini": "img/quartos/luxo-quintuplo-muskzyn9vpy.m.webp"
           },
           {
             "src": "img/quartos/luxo-quintuplo-muskzysokzd.webp",
-            "alt": "Luxo Quíntuplo — foto 4"
+            "alt": "Luxo Quíntuplo — foto 4",
+            "mini": "img/quartos/luxo-quintuplo-muskzysokzd.m.webp"
           },
           {
             "src": "img/quartos/luxo-quintuplo-muskzyy0yf7.webp",
-            "alt": "Luxo Quíntuplo — foto 5"
+            "alt": "Luxo Quíntuplo — foto 5",
+            "mini": "img/quartos/luxo-quintuplo-muskzyy0yf7.m.webp"
           }
         ]
       }
@@ -855,13 +905,15 @@
             "src": "img/proximidades/parque-nacional-1.webp",
             "alt": "Parque Nacional da Serra do Cipó — Portaria Areias — foto 1",
             "credito": "upslon / Wikimedia Commons (CC BY 2.0)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32902708936).jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32902708936).jpg",
+            "mini": "img/proximidades/parque-nacional-1.m.webp"
           },
           {
             "src": "img/proximidades/parque-nacional-2.webp",
             "alt": "Parque Nacional da Serra do Cipó — Portaria Areias — foto 2",
             "credito": "upslon / Wikimedia Commons (CC BY 2.0)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32128502603).jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32128502603).jpg",
+            "mini": "img/proximidades/parque-nacional-2.m.webp"
           }
         ],
         "rota": [
@@ -960,7 +1012,8 @@
             "src": "img/proximidades/estatua-juquinha-1.webp",
             "alt": "Estátua do Juquinha — foto 1",
             "credito": "Pedro Vilela / MTur Destinos / Wikimedia Commons (domínio público)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3APedroVilela_Escultura_do_Juquinha_Santana_do_Riacho_MG_(39056746600).jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3APedroVilela_Escultura_do_Juquinha_Santana_do_Riacho_MG_(39056746600).jpg",
+            "mini": "img/proximidades/estatua-juquinha-1.m.webp"
           }
         ],
         "rota": [
@@ -1208,7 +1261,8 @@
             "src": "img/proximidades/canion-bandeirinhas-1.webp",
             "alt": "Cânion das Bandeirinhas — foto 1",
             "credito": "Vinícius de Souza Naves / Wikimedia Commons (CC BY-SA 4.0)",
-            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AO_C%C3%A2nion_das_Bandeirinhas.jpg"
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AO_C%C3%A2nion_das_Bandeirinhas.jpg",
+            "mini": "img/proximidades/canion-bandeirinhas-1.m.webp"
           }
         ],
         "acessoCarro": [-19.34895, -43.61896],
@@ -2381,51 +2435,63 @@
           "fotos": [
             {
               "src": "img/beneficios/monjolos-muri1n7ey9w.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 1"
+              "alt": "Cachoeira Monjolos + almoço — foto 1",
+              "mini": "img/beneficios/monjolos-muri1n7ey9w.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri1q1xk5a.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 2"
+              "alt": "Cachoeira Monjolos + almoço — foto 2",
+              "mini": "img/beneficios/monjolos-muri1q1xk5a.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri1t2vi4n.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 3"
+              "alt": "Cachoeira Monjolos + almoço — foto 3",
+              "mini": "img/beneficios/monjolos-muri1t2vi4n.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri20wp5du.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 4"
+              "alt": "Cachoeira Monjolos + almoço — foto 4",
+              "mini": "img/beneficios/monjolos-muri20wp5du.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri216v5ow.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 5"
+              "alt": "Cachoeira Monjolos + almoço — foto 5",
+              "mini": "img/beneficios/monjolos-muri216v5ow.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri21hl60d.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 6"
+              "alt": "Cachoeira Monjolos + almoço — foto 6",
+              "mini": "img/beneficios/monjolos-muri21hl60d.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri21og55j.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 7"
+              "alt": "Cachoeira Monjolos + almoço — foto 7",
+              "mini": "img/beneficios/monjolos-muri21og55j.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri21zxiem.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 8"
+              "alt": "Cachoeira Monjolos + almoço — foto 8",
+              "mini": "img/beneficios/monjolos-muri21zxiem.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri22bnm1k.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 9"
+              "alt": "Cachoeira Monjolos + almoço — foto 9",
+              "mini": "img/beneficios/monjolos-muri22bnm1k.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri22mca2k.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 10"
+              "alt": "Cachoeira Monjolos + almoço — foto 10",
+              "mini": "img/beneficios/monjolos-muri22mca2k.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri239vxnm.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 11"
+              "alt": "Cachoeira Monjolos + almoço — foto 11",
+              "mini": "img/beneficios/monjolos-muri239vxnm.m.webp"
             },
             {
               "src": "img/beneficios/monjolos-muri23gy677.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 12"
+              "alt": "Cachoeira Monjolos + almoço — foto 12",
+              "mini": "img/beneficios/monjolos-muri23gy677.m.webp"
             }
           ]
         }
@@ -2446,19 +2512,23 @@
           "fotos": [
             {
               "src": "img/beneficios/passeios-muri4kbpf7y.webp",
-              "alt": "5% de desconto em passeios — foto 1"
+              "alt": "5% de desconto em passeios — foto 1",
+              "mini": "img/beneficios/passeios-muri4kbpf7y.m.webp"
             },
             {
               "src": "img/beneficios/passeios-muri4khxy6p.webp",
-              "alt": "5% de desconto em passeios — foto 2"
+              "alt": "5% de desconto em passeios — foto 2",
+              "mini": "img/beneficios/passeios-muri4khxy6p.m.webp"
             },
             {
               "src": "img/beneficios/passeios-muri4kmy22k.webp",
-              "alt": "5% de desconto em passeios — foto 3"
+              "alt": "5% de desconto em passeios — foto 3",
+              "mini": "img/beneficios/passeios-muri4kmy22k.m.webp"
             },
             {
               "src": "img/beneficios/passeios-muri4ks74um.webp",
-              "alt": "5% de desconto em passeios — foto 4"
+              "alt": "5% de desconto em passeios — foto 4",
+              "mini": "img/beneficios/passeios-muri4ks74um.m.webp"
             }
           ],
           "botoes": [
@@ -2532,31 +2602,38 @@
           "fotos": [
             {
               "src": "img/beneficios/decoracao-murj5lew20x.webp",
-              "alt": "Decoração especial — foto 1"
+              "alt": "Decoração especial — foto 1",
+              "mini": "img/beneficios/decoracao-murj5lew20x.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj5uiaz0l.webp",
-              "alt": "Decoração especial — foto 2"
+              "alt": "Decoração especial — foto 2",
+              "mini": "img/beneficios/decoracao-murj5uiaz0l.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj5xbfksc.webp",
-              "alt": "Decoração especial — foto 3"
+              "alt": "Decoração especial — foto 3",
+              "mini": "img/beneficios/decoracao-murj5xbfksc.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj5zw554h.webp",
-              "alt": "Decoração especial — foto 4"
+              "alt": "Decoração especial — foto 4",
+              "mini": "img/beneficios/decoracao-murj5zw554h.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj62mzsrw.webp",
-              "alt": "Decoração especial — foto 5"
+              "alt": "Decoração especial — foto 5",
+              "mini": "img/beneficios/decoracao-murj62mzsrw.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj64qd73d.webp",
-              "alt": "Decoração especial — foto 6"
+              "alt": "Decoração especial — foto 6",
+              "mini": "img/beneficios/decoracao-murj64qd73d.m.webp"
             },
             {
               "src": "img/beneficios/decoracao-murj66quqnx.webp",
-              "alt": "Decoração especial — foto 7"
+              "alt": "Decoração especial — foto 7",
+              "mini": "img/beneficios/decoracao-murj66quqnx.m.webp"
             }
           ]
         }
