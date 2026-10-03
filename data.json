@@ -2294,6 +2294,11 @@
         "texto": "Toalhas de banho e de rosto inclusas na hospedagem."
       },
       {
+        "icone": "toalha",
+        "titulo": "Toalhas de piscina",
+        "texto": "Para aproveitar a piscina aquecida sem preocupação."
+      },
+      {
         "icone": "cafe",
         "titulo": "Café da manhã",
         "texto": "Servido das 8h às 10h."
@@ -2313,8 +2318,7 @@
         "titulo": "Amenities",
         "texto": "Sabonete, shampoo e condicionador."
       }
-    ],
-    "observacao": "Toalhas de piscina não são fornecidas — traga a sua."
+    ]
   },
   "regras": {
     "eyebrow": "O que não é permitido",
