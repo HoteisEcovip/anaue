@@ -38,8 +38,8 @@
     "instagram": "https://instagram.com/ecovipcipo"
   },
   "hero": {
-    "imagem": "img/capa-muskvo5dnwd.webp",
-    "imagemMobile": "img/capa-mobile-muskvr93lyp.webp",
+    "imagem": "img/capa-musn4378umd.webp",
+    "imagemMobile": "img/capa-mobile-musn40zirbj.webp",
     "alt": "Pousada Anauê — Serra do Cipó",
     "frase": "Um lugar gostoso de ficar."
   },
@@ -2294,11 +2294,6 @@
         "texto": "Toalhas de banho e de rosto inclusas na hospedagem."
       },
       {
-        "icone": "toalha",
-        "titulo": "Toalhas de piscina",
-        "texto": "Para aproveitar a piscina aquecida sem preocupação."
-      },
-      {
         "icone": "cafe",
         "titulo": "Café da manhã",
         "texto": "Servido das 8h às 10h."
@@ -2318,7 +2313,8 @@
         "titulo": "Amenities",
         "texto": "Sabonete, shampoo e condicionador."
       }
-    ]
+    ],
+    "observacao": "Toalhas de piscina não são fornecidas — traga a sua."
   },
   "regras": {
     "eyebrow": "O que não é permitido",
