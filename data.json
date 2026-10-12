@@ -2407,8 +2407,8 @@
     ]
   },
   "beneficios": {
-    "titulo": "Hospedando na Anauê, você também aproveita benefícios da EcoVip.",
-    "intro": "A Anauê faz parte do Grupo EcoVip e oferece diversos benefícios para seus hóspedes:",
+    "titulo": "Hospedando na Anauê, você tem condições especiais em serviços da EcoVip.",
+    "intro": "A Anauê faz parte do Grupo EcoVip e oferece serviços extras com preço especial para seus hóspedes.",
     "itens": [
       {
         "id": "monjolos",
@@ -2423,7 +2423,7 @@
           ],
           "blocos": [
             {
-              "titulo": "O que está incluso",
+              "titulo": "O que o pacote inclui",
               "itens": [
                 "Almoço (das 12h às 14h)",
                 "Acesso ao bar e ao salão de jogos",
@@ -2494,7 +2494,8 @@
               "mini": "img/beneficios/monjolos-muri23gy677.m.webp"
             }
           ]
-        }
+        },
+        "preco": "Valor sob consulta na recepção"
       },
       {
         "id": "passeios",
@@ -2537,7 +2538,8 @@
               "whatsapp": "Olá! Quero reservar um passeio com o guia (desconto de 5% para hóspedes EcoVip)."
             }
           ]
-        }
+        },
+        "preco": "Passeio pago à parte, com 5% de desconto"
       },
       {
         "id": "massagem",
@@ -2568,7 +2570,8 @@
           ],
           "fotos": [],
           "nota": "Agende na recepção da pousada."
-        }
+        },
+        "preco": "A partir de R$ 190,00 por pessoa"
       },
       {
         "id": "decoracao",
@@ -2636,10 +2639,12 @@
               "mini": "img/beneficios/decoracao-murj66quqnx.m.webp"
             }
           ]
-        }
+        },
+        "preco": "A partir de R$ 200,00"
       }
     ],
-    "fecho": "E ainda mais vantagens para tornar sua estadia inesquecível!"
+    "fecho": "E ainda mais vantagens para tornar sua estadia inesquecível!",
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
   },
   "galeria": {
     "eyebrow": "Galeria",
